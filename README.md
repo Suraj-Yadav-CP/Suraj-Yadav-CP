@@ -3,7 +3,7 @@
 
 <!-- <div align="center"> <img src="https://github.com/Suraj-Yadav-CP/Suraj-Yadav-CP/blob/main/LinkedInBanner.png"> </div>
 <h3 align="center">A passionate Software Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3> -->
-<img align="right" alt="Coding" width="400" src="https://github.com/Suraj-Yadav-CP/Suraj-Yadav-CP/blob/main/a.gif">
+<img align="right" alt="Coding" width="400" margin = "20px" src="https://github.com/Suraj-Yadav-CP/Suraj-Yadav-CP/blob/main/a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-yadav-cp&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-yadav-cp" /> </p>
 
